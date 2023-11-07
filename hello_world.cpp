@@ -3,8 +3,8 @@
 int main(int argc, char** argv)
 
 {
-	string name;
-	std::cin>>name
-	std::print("hello");
+  string name;
+  std::cin >> name;
+  std::print("hello");
 }
 EOF
